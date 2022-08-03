@@ -1,0 +1,7 @@
+﻿Task 5:
+
+Without cache:
+Every time the secret is to decode the whole of the dictionary is searched for and then each code is decoded.
+
+Cache:
+Using a vector.
